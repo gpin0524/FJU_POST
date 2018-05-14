@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">FJU_POST</string>
+    <string name="ldap">ldap</string>
+    <string name="password">password</string>
+    <string name="login_in">login_in</string>
+    <string name="todo">TODO</string>
+    <string name="forget_password">forget_password</string>
 </resources>
